@@ -12,7 +12,7 @@ This is not only my own creation. Most of the codes are originated from the foll
 ```
 python3 scribe.py
 ```
-The generated data filename is 'digits.pkl'.
+The generated data filename is `digit.pkl`.
 
 ### training
 ```
