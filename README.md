@@ -8,18 +8,18 @@ This is not my own creation, composited from the following sources:
 
 ## Install & Run
 
-1. data generation
+### data generation
 ```
-python script.py
+python3 script.py
 ```
 The generated data filename is 'digits.pkl'.
 
-2. training
+### training
 ```
-python test_ctc.py
+python3 test_ctc.py
 ```
 if you need to make a log file, use the following commands.
 ```
-unbuffer python test_ctc.py 2>&1 | tee output.log
+unbuffer python3 test_ctc.py 2>&1 | tee output.log
 ```
 
