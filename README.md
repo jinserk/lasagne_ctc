@@ -1,6 +1,6 @@
 Yet another LSTM-CTC example for Lasagne/Theano
 ===============================================
-This is not my own creation, composited from the following sources:
+This is not only my own creation. Most of the codes are originated from the following sources:
 
 * http://github.com/rakeshvar/rnn_ctc.git
 * http://github.com/skaae/Lasagne-CTC.git
@@ -10,7 +10,7 @@ This is not my own creation, composited from the following sources:
 
 ### data generation
 ```
-python3 script.py
+python3 scribe.py
 ```
 The generated data filename is 'digits.pkl'.
 
